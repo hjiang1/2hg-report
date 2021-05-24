@@ -1,0 +1,4 @@
+ROI (Pipeline),2HG (CRLB),2HG/Cr+PCr,(2HG+Gln)/Glu
+20x20x20 Lesion (Fc*),0.251 (165%),0.04,0.262
+10x30x20 Lesion (Cc*),0.576 (97%),0.096,0.311
+20x20x20 Healthy Contralateral (Fc*),1.642 (30%),0.189,0.436
